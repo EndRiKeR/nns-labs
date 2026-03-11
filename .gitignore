@@ -182,3 +182,7 @@ cython_debug/
 
 /data
 /.vscode
+
+*.png
+*.csv
+*.html
